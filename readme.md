@@ -11,4 +11,4 @@
 
 Para resolver esse dasafio foi utilizado HTML,CSS e javascript.
 
-Link:
+Link: https://vitoria-code.github.io/Jogo-da-velha/
